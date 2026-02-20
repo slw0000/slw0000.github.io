@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Портфолио / Лабы
+
+nav:
+  - Главная: index.md
+  - Об авторе: author.md
+  - Лабораторные работы:
+      - Лабораторная 1: labs/lab-01.md
