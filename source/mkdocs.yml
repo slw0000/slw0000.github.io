@@ -1,5 +1,21 @@
 site_name: Портфолио / Лабы
 
+theme:
+  name: material
+
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+
+  font:
+    code: Roboto Mono
+
+  features:
+    - navigation.tabs
+
+repo_url: https://github.com/slw0000
+
 nav:
   - Главная: index.md
   - Об авторе: author.md
