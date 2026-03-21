@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main  # или другая основная ветка
-  # workflow_dispatch:  # ручная активация через интерфейс GitHub
+  workflow_dispatch:  # ручная активация через интерфейс GitHub
 
 jobs:
   build:
