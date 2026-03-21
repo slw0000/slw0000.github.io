@@ -7,9 +7,11 @@
 - Направление: _Нейротехнологии и програмирование_
 - Группа: _P3123_
 
-На этом сайте публикуются отчёты по лабораторным работам а так же личное портфолио.
+На этом сайте публикуются отчёты по лабораторным работам а так же личное портфолио.  
+Сайт автоматически делает build и deploy с помощью инструментов github actions и sourcecraft ci/cd.
 
 ### Контакты
 - Telegram: _@slw1357_
 - Email: _artem.golubev@niuitmo.ru_
 - GitHub: _<https://github.com/slw0000>_
+- SourceCraft: _<https://sourcecraft.dev/agolubevdev/overview>_
