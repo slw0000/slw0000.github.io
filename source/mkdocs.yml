@@ -30,9 +30,11 @@ repo_url: https://github.com/slw0000
 nav:
   - Главная: index.md
   - Об авторе: author.md
-  - Лабораторные работы:
+  - Лабораторные работы: 
+      - Все отчёты: labs-all.md
       - Лабораторная 1: labs/lab-01.md
       - Лабораторная 2: labs/lab-02.md
       - Лабораторная 4: labs/lab-04.md
       - Лабораторная 5: labs/lab-05.md
+      - Лабораторная 8: labs/lab-08.md
 
