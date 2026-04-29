@@ -19,4 +19,5 @@
     4.6. Теги  
 5. Сохранить данные из пункта 4 в csv-файле (или файлах) в папке (news_content) рядом с csv с общими данными (из пункта 3)
 
-## 🔗 Исходный код (Google Colab): [ссылка](https://colab.research.google.com/drive/1ZmpZ5FOwRaY5ProAHNimDXcrozhb6p24?usp=sharing)
+## **Исходный код (Google Colab)** 
+[Ссылка на Collab](https://colab.research.google.com/drive/1ZmpZ5FOwRaY5ProAHNimDXcrozhb6p24?usp=sharing)

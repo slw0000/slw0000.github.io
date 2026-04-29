@@ -11,4 +11,6 @@
 
 Видеокомментарий преподавателя по борду находится по ссылке: https://yadi.sk/i/Cmrpx76QXXA8qw
 
-## 🔗 Исходный код (Google Colab): [ссылка](https://colab.research.google.com/drive/1C1Ml7HoRtGQKcaVaw9xW8ba9g8DF6NI2?usp=sharing)
+## **Исходный код (Google Colab)** 
+[Ссылка на Collab](https://colab.research.google.com/drive/1C1Ml7HoRtGQKcaVaw9xW8ba9g8DF6NI2?usp=sharing)
+
